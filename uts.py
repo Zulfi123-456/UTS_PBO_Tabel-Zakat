@@ -158,5 +158,5 @@ def main():
         except ValueError:
             print("Error: Mohon masukkan angka yang valid!")
 
-if __name__ == "_main_":
+if _name_ == "_main_":
     main()
