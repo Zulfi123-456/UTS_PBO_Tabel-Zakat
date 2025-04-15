@@ -3,7 +3,7 @@ from datetime import datetime
 import os
 
 # Inisialisasi data
-harga_beras = [15000, 20000, 25000]
+harga_beras = [15000, 20000, 25000, 30000]
 EXCEL_FILE = "data_zakat.xlsx"
 
 def load_data_from_excel():
